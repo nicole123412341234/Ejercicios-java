@@ -8,7 +8,7 @@ public class Periodo2 {
         {
              contador++; //Si es multiplo aumentamos el contador en 1
         }
-       //Si no ezs multiplo no hacemos nada 
+       //Si no es multiplo no hacemos nada 
     }
    //Mostramos el valor del contador
     System.out.println(contador);
