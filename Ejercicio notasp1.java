@@ -19,10 +19,10 @@ public class Clase14ejercicio1 {
     } else if (reglas == 2) {
       if (nota < 6){
         nota = nota + 0.5;
-      } else if (nora >=6 & nota < 8) {
+      } else if (nota >=6 & nota < 8) {
         nota = nota + 0.7;
       } else {
-        System.out.println("Nota invalida");
+        System.out.println("Nota invalida";
       }
     } else {
       System.out.println("Usted debe cumplir las reglas");      
